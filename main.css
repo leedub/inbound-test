@@ -1,0 +1,468 @@
+@media screen and (min-width: 400px) {
+.Rectangle {
+    width: 1920px;
+    height: 2903px;
+    opacity: 0.9;
+    background-image: linear-gradient(147deg, #3023ae, #c86dd7);
+   
+  }
+.Path-2 {
+    width: 976px;
+    height: 1080px;
+    object-fit: contain;
+    margin-top: 0;
+    margin-left: 0;
+    position: absolute;
+    left: 0px;
+    background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+    background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+  }
+  .Path-2-Copy {
+    width: 704px;
+    height: 779px;
+    object-fit: contain;
+    position: absolute;
+    right: 0px;
+    top:0px;
+    background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+    background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+  }
+  .Company-name {
+    z-index: 10;
+    position: absolute;
+    margin-top:42px;
+    margin-left:375px;
+    width: 252px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+
+  }
+  .Rectangle-2 {
+      z-index: 10;
+    width: 171px;
+    height: 42px;
+    margin-left:1638px;
+    margin-top:42px;
+    border-radius: 41.5px;
+    background-color: #00a9ff;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .Sign-up {
+    z-index: 10;
+    font-family: Roboto;
+    font-size: 20px;
+    left:1690px;
+    top:51px;
+    color: rgb(255, 255, 255);
+  }
+
+  .Rectangle-5-Copy-2 {
+
+      margin-left:0px;
+      position: absolute;
+      left: 0px;
+    object-fit: contain;
+    background-color: rgb(255, 255, 255);
+    background-color: var(--white);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  }
+  .CryptoWorld {
+    z-index: 10;
+    min-width: 778px;
+    height: 169px;
+    font-family: Roboto;
+    font-size: 144px;
+    text-align: center;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .Rectangle-3-Copy {
+    z-index: 10;
+    width: 1178px;
+    height: 50px;
+    border-radius: 41.5px;
+    background-color: #ffffff;
+    align-self: center;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  }
+  .progress-bar-2 {
+      margin-left: 1115px;
+      margin-top:427px;
+    object-fit: contain;
+    border-radius: 100px;
+    background-color: rgb(0, 169, 255);
+  }
+  .SEARCH-ICON {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+  }
+  .Search-your-dream-co{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 15px;
+    color: rgb(70, 70, 70);
+  }
+  .Lorem-ipsum-dolor-si {
+      align-self: center;
+      padding-left: 25%;
+      position: relative;
+      z-index: 50;
+    width: 968px;
+    height: 118px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+  .Oval-Copy {
+    width: 20px;
+    height: 20px;
+    z-index: 10;
+
+    object-fit: contain;
+    border: solid 1px #ffffff;
+    border: solid 1px var(--white);
+    flex-direction: column;
+  }
+  .Ovel-Side{
+    /* flex-direction: column;  */
+    float: right;
+    width: 25px;
+    z-index: 10;
+    margin-right: 10%;
+    position: relative;
+    flex-direction: column;
+  }
+  .displyCenter{
+      display: flex;
+      flex-direction: column;
+
+  }
+  .outline {
+    object-fit: contain;
+    border: solid 1px rgb(0, 169, 255);
+  }
+  .Oval-3-Copy {
+    background-color: rgb(0, 169, 255);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 25px;
+
+    position: absolute;
+  }
+  .Lorem-ipsum-dolor-si-Copy-8 {
+    font-family: Roboto;
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+width:   419px;
+height:50px;
+position: relative;
+margin-left: 5%;
+  }
+  .Lorem-ipsum-dolor-si-Copy-9{
+    font-family: Roboto;
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+    width: 382px;
+
+height:50px;
+position: relative;
+
+margin-left: 14%;
+margin-top: 5%;
+  }
+  .lefttSideUl{
+    list-style-type: none;
+
+    left: 300px;
+    position: relative;
+  }
+  .rightSideUl{
+    list-style-type: none;
+    position: relative;
+  }
+  .Lorem-ipsum-dolor-si-Copy-4 {
+    font-family: Roboto;
+    margin: 5%;
+    left: 375px;
+    width: 367px;
+    font-size: 36px;
+    color: rgb(0, 169, 255);
+    position: relative;
+  }
+  .Lorem-ipsum-dolor-si-Copy-5{
+      margin-top: -5%;
+    right: 375px;
+    width: 367px;
+
+    font-family: Roboto;
+  font-size: 36px;
+  color: rgb(0, 169, 255);
+  
+  }
+  .Group-17 {
+    object-fit: contain;
+  }
+  .Rectangle-5-Copy-3 {
+    object-fit: contain;
+    position: absolute;
+    right: 0px;
+    top: 661px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    background-color: var(--white);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  }
+  .leftSide{
+      z-index: 50;
+      color: greyish-brown;
+      position: relative;
+      
+  }
+  .rightSide{
+    position: relative;
+    float: right;
+    margin-right: 10%;
+  }
+.outline{
+    border: solid 1px rgb(0, 169, 255);
+}
+.Rectangle-3 {
+    background-color: rgb(98, 59, 187);
+    position: inherit;
+    text-align: center;
+    float: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .Lorem-ipsum-dolor-si-Copy-14 {
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+  }
+  .Lorem-ipsum-dolor-si-Copy-15 {
+  font-family: Roboto;
+  font-size: 36px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+
+}
+.Lorem-ipsum-dolor-si-Copy-2 {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    align-self: center;
+    width: 901px;
+   height:  169px;
+  }
+  .footer{
+      z-index: 10;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+  }
+  .Rectangle-5 {
+    background-color: rgb(0, 0, 0);
+    border: solid 1px rgb(151, 151, 151);
+    clear:both;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  .Lorem-ipsum-dolor {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+    color: rgb(255, 255, 255);
+  } 
+  .Lorem-ipsum-dolor-ul-1{
+       font-family: Roboto;
+      font-size: 18px;
+      line-height: 22px;
+      color: rgb(255, 255, 255);
+  } 
+}
+ @media screen and (max-width: 375px) {
+
+    :root{
+        --white: white;
+        --greyish-brown:rgb(70, 70, 70);
+    }
+    .Path-2, .Path-2-Copy,.Rectangle-5-Copy-2 {
+        display:none;
+    }
+    .Rectangle-Copy {
+        opacity: 0.9;
+        width: 100%;
+        background-image: linear-gradient(173deg, rgb(48, 35, 174), rgb(200, 109, 215));
+      }
+     
+      .Group-4 {
+        object-fit: contain;
+        width: 100%;
+        height: 214px;
+      } 
+      .Company-name-Copy {
+        position: absolute;
+        top:20px;
+        left:20px;  
+        font-family: Roboto;
+        font-size: 30px;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        color: var(--white);
+      } 
+      .menu {
+        object-fit: contain;
+        position: absolute;
+        top:20px;
+        right: 20px;
+      }
+      .Rectangle-2 {
+        position: absolute;
+        border-radius: 41.5px;
+        background-color: rgb(0, 169, 255);
+        width: 171px;
+        height: 42px;
+        top:107px;
+        left:102px;
+        text-align: center;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+      }
+      .Sign-up {
+        font-family: Roboto;
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        color: var(--white);
+        width: 67px;
+        height: 24px;
+
+      }
+      .CryptoWorld-Copy {
+        font-family: Roboto-Thin;
+        font-size: 60px;
+        font-weight: 100;
+        color: rgb(255, 255, 255);
+        color: var(--white);
+        top:178px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+      }
+      .Rectangle-3-Copy-3 {
+        border-radius: 41.5px;
+        background-color: rgb(255, 255, 255);
+        background-color: var(--white);
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+        display: flex;
+        justify-content:center;
+        align-items: center;
+      }
+      .Search-your-dream-co-Copy {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 300;
+        color: rgb(70, 70, 70);
+        color: var(--greyish-brown);
+      }
+      .progress-bar-2 {
+        object-fit: contain;
+        /* background-color: rgb(0, 169, 255); */
+        left: 60px;
+        position: relative;
+      }
+      .Mask {
+
+        padding-left: 10px;
+        width: 17.5px;
+        height: 17.5px;
+        position: relative;
+        display: block;
+      }
+      .Lorem-ipsum-dolor-si {
+        font-family: Roboto;
+        font-size: 18px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        color: var(--white);
+      }
+      .changeOrder{
+        /* flex-direction: column;  */
+
+        margin-top: 10%;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+      }
+      .outline{
+          display: none;
+      }
+      h2  {
+        font-family: Roboto;
+        font-size: 24px;
+        text-align: center;
+        color: rgb(0, 169, 255);
+      }
+      ul{
+          list-style-type: none;
+      }
+      . Lorem-ipsum-dolor-si-Copy-8{
+        font-family: Roboto;
+        font-size: 18px;
+        text-align: center;
+        color: rgb(70, 70, 70);
+        color: var(--greyish-brown);
+      }
+      .Oval-3-Copy-4 {
+        background-color: rgb(0, 169, 255);
+        width: 25px;
+        height:25px;
+        border-radius: 50%;
+        display: flex;
+        margin:10px 40% 10px 40%;
+
+      }
+      .Group-17{
+        margin-left: 30%;
+      }
+      .rightSide{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        z-index: 10;
+        margin-top: -350%;
+      }
+  }
